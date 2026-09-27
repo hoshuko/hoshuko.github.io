@@ -1,0 +1,39 @@
+<div align="center">
+
+<a href="https://hoshuko.github.io/en.html"><img src="https://hoshuko.github.io/assets/img/og-en.jpg" alt="Storefronts in motion" width="100%"></a>
+
+# Storefronts in motion
+
+**Three scroll-animated website templates for local businesses, each in French, English and Spanish, with promo videos in three formats.**
+
+**English** · [Français](README.fr.md) · [Español](README.es.md)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-hoshuko.github.io-16181B?style=for-the-badge)](https://hoshuko.github.io/en.html) [![YouTube](https://img.shields.io/badge/YouTube-%40Hosh--uko-C4302B?style=for-the-badge)](https://www.youtube.com/@Hosh-uko) [![License](https://img.shields.io/badge/License-PolyForm_Noncommercial-555555?style=for-the-badge)](LICENSE)
+
+</div>
+
+## The templates
+
+| <a href="https://hoshuko.github.io/maison-billot/en.html"><img src="https://hoshuko.github.io/assets/readme/billot-banner-en.jpg" alt="Maison Billot on desktop and mobile" width="260"></a> | <a href="https://hoshuko.github.io/tafat/en.html"><img src="https://hoshuko.github.io/assets/readme/tafat-banner-en.jpg" alt="Tafat on desktop and mobile" width="260"></a> | <a href="https://hoshuko.github.io/atelier-nacre/en.html"><img src="https://hoshuko.github.io/assets/readme/nacre-banner-en.jpg" alt="Atelier Nacre on desktop and mobile" width="260"></a> |
+| :---: | :---: | :---: |
+| **Maison Billot**<br><sub>Artisan butcher · Lyon</sub><br>[Live demo](https://hoshuko.github.io/maison-billot/en.html) · [Code](https://github.com/hoshuko/maison-billot/blob/main/README.md) · [Promo video](https://hoshuko.github.io/en.html#billot) | **Tafat**<br><sub>Home cleaning · Tigzirt, Kabylia</sub><br>[Live demo](https://hoshuko.github.io/tafat/en.html) · [Code](https://github.com/hoshuko/tafat/blob/main/README.md) · [Promo video](https://hoshuko.github.io/en.html#tafat) | **Atelier Nacre**<br><sub>Nail studio · Bordeaux</sub><br>[Live demo](https://hoshuko.github.io/atelier-nacre/en.html) · [Code](https://github.com/hoshuko/atelier-nacre/blob/main/README.md) · [Promo video](https://hoshuko.github.io/en.html#nacre) |
+
+## About this repository
+
+This repository is the portfolio itself, published with GitHub Pages at <https://hoshuko.github.io/>.
+
+- `index.html`, `en.html`, `es.html`: the portfolio in French, English and Spanish. On a first visit, the French home page switches to English or Spanish when that is the browser’s language; a choice made with the language switcher is remembered.
+- `assets/video/`: the promo videos (lighter 720p versions) in every format and language, with their posters.
+- `assets/shots/` and `assets/readme/`: the screenshots, banners and animated previews shown here and in the templates’ READMEs.
+
+## Under the hood
+
+Static HTML, CSS and JavaScript, self-hosted fonts, no cookies, no analytics, no third-party requests, and a strict Content Security Policy.
+
+## Credits
+
+The screenshots and videos show photos from Unsplash, Pexels and Wikimedia Commons, credited in [CREDITS.md](CREDITS.md) and in each template’s own credits. The music and sound effects of the videos are generated. Fonts: SIL Open Font License 1.1 ([`assets/fonts/OFL.txt`](assets/fonts/OFL.txt)).
+
+## License
+
+Code under the [PolyForm Noncommercial License 1.0.0](LICENSE). Found a vulnerability? Please report it privately from the repository’s **Security** tab (“Report a vulnerability”) rather than in a public issue. See [SECURITY.md](SECURITY.md).
