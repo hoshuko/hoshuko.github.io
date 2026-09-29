@@ -4,7 +4,7 @@
 
 # Vitrines en mouvement
 
-**Trois maquettes de sites vitrines animés au défilement pour les commerces de proximité, chacune en français, en anglais et en espagnol, avec des vidéos promo en trois formats.**
+**Quatre maquettes de sites vitrines animés au défilement pour les commerces de proximité, chacune en français, en anglais et en espagnol, avec des vidéos promo en trois formats.**
 
 [English](README.md) · **Français** · [Español](README.es.md)
 
@@ -14,9 +14,9 @@
 
 ## Les maquettes
 
-| <a href="https://hoshuko.github.io/maison-billot/"><img src="https://hoshuko.github.io/assets/readme/billot-banner-fr.jpg" alt="Maison Billot sur ordinateur et sur téléphone" width="260"></a> | <a href="https://hoshuko.github.io/tafat/"><img src="https://hoshuko.github.io/assets/readme/tafat-banner-fr.jpg" alt="Tafat sur ordinateur et sur téléphone" width="260"></a> | <a href="https://hoshuko.github.io/atelier-nacre/"><img src="https://hoshuko.github.io/assets/readme/nacre-banner-fr.jpg" alt="Atelier Nacre sur ordinateur et sur téléphone" width="260"></a> |
-| :---: | :---: | :---: |
-| **Maison Billot**<br><sub>Boucherie artisanale · Lyon</sub><br>[Démo](https://hoshuko.github.io/maison-billot/) · [Code](https://github.com/hoshuko/maison-billot/blob/main/README.fr.md) · [Vidéo promo](https://hoshuko.github.io/#billot) | **Tafat**<br><sub>Ménage à domicile · Tigzirt, Kabylie</sub><br>[Démo](https://hoshuko.github.io/tafat/) · [Code](https://github.com/hoshuko/tafat/blob/main/README.fr.md) · [Vidéo promo](https://hoshuko.github.io/#tafat) | **Atelier Nacre**<br><sub>Prothésiste ongulaire · Bordeaux</sub><br>[Démo](https://hoshuko.github.io/atelier-nacre/) · [Code](https://github.com/hoshuko/atelier-nacre/blob/main/README.fr.md) · [Vidéo promo](https://hoshuko.github.io/#nacre) |
+| <a href="https://hoshuko.github.io/maison-billot/"><img src="https://hoshuko.github.io/assets/readme/billot-banner-fr.jpg" alt="Maison Billot sur ordinateur et sur téléphone" width="260"></a> | <a href="https://hoshuko.github.io/tafat/"><img src="https://hoshuko.github.io/assets/readme/tafat-banner-fr.jpg" alt="Tafat sur ordinateur et sur téléphone" width="260"></a> | <a href="https://hoshuko.github.io/atelier-nacre/"><img src="https://hoshuko.github.io/assets/readme/nacre-banner-fr.jpg" alt="Atelier Nacre sur ordinateur et sur téléphone" width="260"></a> | <a href="https://hoshuko.github.io/tiziri/"><img src="https://hoshuko.github.io/assets/readme/tiziri-banner-fr.jpg" alt="Tiziri sur ordinateur et sur téléphone" width="260"></a> |
+| :---: | :---: | :---: | :---: |
+| **Maison Billot**<br><sub>Boucherie artisanale · Lyon</sub><br>[Démo](https://hoshuko.github.io/maison-billot/) · [Code](https://github.com/hoshuko/maison-billot/blob/main/README.fr.md) · [Vidéo promo](https://hoshuko.github.io/#billot) | **Tafat**<br><sub>Ménage à domicile · Tigzirt, Kabylie</sub><br>[Démo](https://hoshuko.github.io/tafat/) · [Code](https://github.com/hoshuko/tafat/blob/main/README.fr.md) · [Vidéo promo](https://hoshuko.github.io/#tafat) | **Atelier Nacre**<br><sub>Prothésiste ongulaire · Bordeaux</sub><br>[Démo](https://hoshuko.github.io/atelier-nacre/) · [Code](https://github.com/hoshuko/atelier-nacre/blob/main/README.fr.md) · [Vidéo promo](https://hoshuko.github.io/#nacre) | **Tiziri**<br><sub>Boutique de mode · Tigzirt, Kabylie</sub><br>[Démo](https://hoshuko.github.io/tiziri/) · [Code](https://github.com/hoshuko/tiziri/blob/main/README.fr.md) · [Vidéo promo](https://hoshuko.github.io/#tiziri) |
 
 ## À propos de ce dépôt
 
@@ -32,7 +32,7 @@ HTML, CSS et JavaScript statiques, polices hébergées avec le site, ni cookies,
 
 ## Crédits
 
-Les captures et les vidéos montrent des photos d’Unsplash, de Pexels et de Wikimedia Commons, créditées dans [CREDITS.md](CREDITS.md) et dans les crédits de chaque maquette. La musique et les bruitages des vidéos sont générés. Polices : SIL Open Font License 1.1 ([`assets/fonts/OFL.txt`](assets/fonts/OFL.txt)).
+Les captures et les vidéos montrent des photos d’Unsplash, de Pexels et de Wikimedia Commons, et des photos prises en boutique (Tiziri, avec des vues et des vidéos générées par Google Flow), créditées dans [CREDITS.md](CREDITS.md) et dans les crédits de chaque maquette. La musique et les bruitages des vidéos sont générés. Polices : SIL Open Font License 1.1 ([`assets/fonts/OFL.txt`](assets/fonts/OFL.txt)).
 
 ## Licence
 

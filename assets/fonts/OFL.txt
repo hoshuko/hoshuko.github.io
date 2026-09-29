@@ -19,6 +19,9 @@ Copyright 2022 The Bricolage Grotesque Project Authors (https://github.com/ateli
 Gloock
 Copyright 2022 The Gloock Project Authors (https://github.com/duartp/gloock)
 
+Instrument Serif
+Copyright 2022 The Instrument Serif Project Authors (https://github.com/Instrument/instrument-serif)
+
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
 https://scripts.sil.org/OFL
