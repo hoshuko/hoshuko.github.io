@@ -1,8 +1,8 @@
 # Credits · Crédits · Créditos
 
-The screenshots and promo videos in this repository show the four templates, including their photos. Full credits: [Maison Billot](https://github.com/hoshuko/maison-billot/blob/main/CREDITS.md), [Tafat](https://github.com/hoshuko/tafat/blob/main/CREDITS.md), [Atelier Nacre](https://github.com/hoshuko/atelier-nacre/blob/main/CREDITS.md), [Tiziri](https://github.com/hoshuko/tiziri/blob/main/CREDITS.md).  
-Les captures et vidéos promo de ce dépôt montrent les quatre maquettes et leurs photos. Crédits complets : voir les liens ci-dessus.  
-Las capturas y los vídeos promocionales de este repositorio muestran las cuatro maquetas y sus fotos. Créditos completos: ver los enlaces anteriores.
+The screenshots and promo videos in this repository show the five templates, including their photos. Full credits: [Maison Billot](https://github.com/hoshuko/maison-billot/blob/main/CREDITS.md), [Tafat](https://github.com/hoshuko/tafat/blob/main/CREDITS.md), [Atelier Nacre](https://github.com/hoshuko/atelier-nacre/blob/main/CREDITS.md), [Tiziri](https://github.com/hoshuko/tiziri/blob/main/CREDITS.md), [Lalla Warda](https://github.com/hoshuko/lalla-warda/blob/main/CREDITS.md).  
+Les captures et vidéos promo de ce dépôt montrent les cinq maquettes et leurs photos. Crédits complets : voir les liens ci-dessus.  
+Las capturas y los vídeos promocionales de este repositorio muestran las cinco maquetas y sus fotos. Créditos completos: ver los enlaces anteriores.
 
 ## Wikimedia Commons (CC BY-SA)
 
@@ -15,6 +15,9 @@ These works appear in the screenshots and videos · Ces œuvres apparaissent dan
 - [Tigzirt - Tizi Ouzou Province (Algeria).jpg](https://commons.wikimedia.org/wiki/File:Tigzirt_-_Tizi_Ouzou_Province_%28Algeria%29.jpg), Fayeqalnatour, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) (Tafat)
 - [Wiki Loves Earth 2014dz8 tamda ouguemoun tizi-ouzou.JPG](https://commons.wikimedia.org/wiki/File:Wiki_Loves_Earth_2014dz8_tamda_ouguemoun_tizi-ouzou.JPG), Yazid Leharani, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) (Tafat)
 - [Tigzirt roman ruins 02.jpg](https://commons.wikimedia.org/wiki/File:Tigzirt_roman_ruins_02.jpg), MohAdm, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) (Tafat)
+- [Rosa Damascena kelaa Mgouna.jpg](https://commons.wikimedia.org/wiki/File:Rosa_Damascena_kelaa_Mgouna.jpg), Nabil Talibi, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) (Lalla Warda)
+- [Argania spinosa MHNT.BOT.2010.12.2.jpg](https://commons.wikimedia.org/wiki/File:Argania_spinosa_MHNT.BOT.2010.12.2.jpg), Roger Culos, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) (Lalla Warda)
+- [Fruit of Indian fig opuntia (Opuntia ficus-indica), Agios Sostis, Tinos, Greece julesvernex2.jpg](https://commons.wikimedia.org/wiki/File:Fruit_of_Indian_fig_opuntia_%28Opuntia_ficus-indica%29,_Agios_Sostis,_Tinos,_Greece_julesvernex2.jpg), Jules Verne Times Two, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) (Lalla Warda)
 
 ## Unsplash · Pexels
 

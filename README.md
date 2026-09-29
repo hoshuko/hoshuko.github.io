@@ -4,7 +4,7 @@
 
 # Storefronts in motion
 
-**Four scroll-animated website templates for local businesses, each in French, English and Spanish, with promo videos in three formats.**
+**Five scroll-animated website templates for local businesses, each in French, English and Spanish, with promo videos in three formats.**
 
 **English** · [Français](README.fr.md) · [Español](README.es.md)
 
@@ -14,9 +14,9 @@
 
 ## The templates
 
-| <a href="https://hoshuko.github.io/maison-billot/en.html"><img src="https://hoshuko.github.io/assets/readme/billot-banner-en.jpg" alt="Maison Billot on desktop and mobile" width="260"></a> | <a href="https://hoshuko.github.io/tafat/en.html"><img src="https://hoshuko.github.io/assets/readme/tafat-banner-en.jpg" alt="Tafat on desktop and mobile" width="260"></a> | <a href="https://hoshuko.github.io/atelier-nacre/en.html"><img src="https://hoshuko.github.io/assets/readme/nacre-banner-en.jpg" alt="Atelier Nacre on desktop and mobile" width="260"></a> | <a href="https://hoshuko.github.io/tiziri/en/"><img src="https://hoshuko.github.io/assets/readme/tiziri-banner-en.jpg" alt="Tiziri on desktop and mobile" width="260"></a> |
-| :---: | :---: | :---: | :---: |
-| **Maison Billot**<br><sub>Artisan butcher · Lyon</sub><br>[Live demo](https://hoshuko.github.io/maison-billot/en.html) · [Code](https://github.com/hoshuko/maison-billot/blob/main/README.md) · [Promo video](https://hoshuko.github.io/en.html#billot) | **Tafat**<br><sub>Home cleaning · Tigzirt, Kabylia</sub><br>[Live demo](https://hoshuko.github.io/tafat/en.html) · [Code](https://github.com/hoshuko/tafat/blob/main/README.md) · [Promo video](https://hoshuko.github.io/en.html#tafat) | **Atelier Nacre**<br><sub>Nail studio · Bordeaux</sub><br>[Live demo](https://hoshuko.github.io/atelier-nacre/en.html) · [Code](https://github.com/hoshuko/atelier-nacre/blob/main/README.md) · [Promo video](https://hoshuko.github.io/en.html#nacre) | **Tiziri**<br><sub>Fashion boutique · Tigzirt, Kabylia</sub><br>[Live demo](https://hoshuko.github.io/tiziri/en/) · [Code](https://github.com/hoshuko/tiziri/blob/main/README.md) · [Promo video](https://hoshuko.github.io/en.html#tiziri) |
+| <a href="https://hoshuko.github.io/maison-billot/en.html"><img src="https://hoshuko.github.io/assets/readme/billot-banner-en.jpg" alt="Maison Billot on desktop and mobile" width="260"></a> | <a href="https://hoshuko.github.io/tafat/en.html"><img src="https://hoshuko.github.io/assets/readme/tafat-banner-en.jpg" alt="Tafat on desktop and mobile" width="260"></a> | <a href="https://hoshuko.github.io/atelier-nacre/en.html"><img src="https://hoshuko.github.io/assets/readme/nacre-banner-en.jpg" alt="Atelier Nacre on desktop and mobile" width="260"></a> | <a href="https://hoshuko.github.io/tiziri/en/"><img src="https://hoshuko.github.io/assets/readme/tiziri-banner-en.jpg" alt="Tiziri on desktop and mobile" width="260"></a> | <a href="https://hoshuko.github.io/lalla-warda/en.html"><img src="https://hoshuko.github.io/assets/readme/warda-banner-en.jpg" alt="Lalla Warda on desktop and mobile" width="260"></a> |
+| :---: | :---: | :---: | :---: | :---: |
+| **Maison Billot**<br><sub>Artisan butcher · Lyon</sub><br>[Live demo](https://hoshuko.github.io/maison-billot/en.html) · [Code](https://github.com/hoshuko/maison-billot/blob/main/README.md) · [Promo video](https://hoshuko.github.io/en.html#billot) | **Tafat**<br><sub>Home cleaning · Tigzirt, Kabylia</sub><br>[Live demo](https://hoshuko.github.io/tafat/en.html) · [Code](https://github.com/hoshuko/tafat/blob/main/README.md) · [Promo video](https://hoshuko.github.io/en.html#tafat) | **Atelier Nacre**<br><sub>Nail studio · Bordeaux</sub><br>[Live demo](https://hoshuko.github.io/atelier-nacre/en.html) · [Code](https://github.com/hoshuko/atelier-nacre/blob/main/README.md) · [Promo video](https://hoshuko.github.io/en.html#nacre) | **Tiziri**<br><sub>Fashion boutique · Tigzirt, Kabylia</sub><br>[Live demo](https://hoshuko.github.io/tiziri/en/) · [Code](https://github.com/hoshuko/tiziri/blob/main/README.md) · [Promo video](https://hoshuko.github.io/en.html#tiziri) | **Lalla Warda**<br><sub>Natural cosmetics · Kenitra, Morocco</sub><br>[Live demo](https://hoshuko.github.io/lalla-warda/en.html) · [Code](https://github.com/hoshuko/lalla-warda/blob/main/README.md) · [Promo video](https://hoshuko.github.io/en.html#warda) |
 
 ## About this repository
 
